@@ -368,6 +368,13 @@ tags
 # Persistent undo
 [._]*.un~
 
+### Redis ###
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb
+redis-stable
+redis-stable.tar.gz
+
 # personal
 my_settings.py
 .idea
