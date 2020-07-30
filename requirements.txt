@@ -1,0 +1,23 @@
+amqp @ file:///tmp/build/80754af9/amqp_1594419542150/work
+asgiref==3.2.10
+billiard==3.6.3.0
+celery @ file:///tmp/build/80754af9/celery_1595349044305/work
+certifi==2020.6.20
+cffi==1.14.0
+cryptography==2.9.2
+Django==3.0.8
+django-cors-headers==3.4.0
+future==0.18.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/84197498-cbc0-4436-7ce0-03c4490b7a28/volume/importlib-metadata_1593446431408/work
+kombu @ file:///opt/concourse/worker/volumes/live/94cd237c-5c31-4746-714a-c6d14be37892/volume/kombu_1595349427228/work
+mysqlclient==2.0.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyJWT==1.7.1
+pytz==2020.1
+redis==3.5.3
+six==1.15.0
+SQLAlchemy @ file:///opt/concourse/worker/volumes/live/701c360b-024a-4c1d-72ce-e82e6bfb4620/volume/sqlalchemy_1593446320654/work
+sqlparse==0.3.1
+vine==1.3.0
+zipp==3.1.0
