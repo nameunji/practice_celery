@@ -5,7 +5,7 @@ celery @ file:///tmp/build/80754af9/celery_1595349044305/work
 certifi==2020.6.20
 cffi==1.14.0
 cryptography==2.9.2
-Django==3.0.8
+Django==3.0.12
 django-cors-headers==3.4.0
 future==0.18.2
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
