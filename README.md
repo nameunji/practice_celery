@@ -15,5 +15,5 @@
 <br>
   
 ## blog
-https://nameunji.github.io/django/Django-celery/
+https://velog.io/@nameunzz/Celery-Redis
 
