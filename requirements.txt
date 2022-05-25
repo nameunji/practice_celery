@@ -13,7 +13,7 @@ importlib-metadata @ file:///opt/concourse/worker/volumes/live/84197498-cbc0-443
 kombu @ file:///opt/concourse/worker/volumes/live/94cd237c-5c31-4746-714a-c6d14be37892/volume/kombu_1595349427228/work
 mysqlclient==2.0.1
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2020.1
 redis==3.5.3
 six==1.15.0
