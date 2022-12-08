@@ -2,7 +2,7 @@ amqp @ file:///tmp/build/80754af9/amqp_1594419542150/work
 asgiref==3.2.10
 billiard==3.6.3.0
 celery @ file:///tmp/build/80754af9/celery_1595349044305/work
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 cryptography==2.9.2
 Django==3.0.8
